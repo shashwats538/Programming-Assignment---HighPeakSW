@@ -9,3 +9,5 @@ The code is written in python language:
 3. Run the .py file using the python interpreter.
 4. Check the output in the output.txt file.
 (The Output Displayed depends upon the input in the input.txt file.)
+
+**The Executon Video is present in the repository and also present on Youtube(link: https://youtu.be/bYmrh-QpAGE)
